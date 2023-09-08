@@ -1,0 +1,10 @@
+new treasuretable "DEN_Entrance_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_Scroll_SummonUs",1,0,0,0,0,0,0,0
+
+new treasuretable "EquipmentTrader_Scrolls"
+CanMerge 1
+new subtable "1,1"
+StartLevel "1"
+object category "I_OBJ_Scroll_SummonUs",1,0,0,0,0,0,0,0
